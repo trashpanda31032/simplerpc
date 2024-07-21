@@ -9,9 +9,9 @@ function reloadPresence(client) {
         .setName("Miaww") //name of your activity
         .setDetails("dying for her [afk]") //detail activity
         .setStartTimestamp(global.startTime)
-        .setAssetsLargeImage("https://i.pinimg.com/originals/9e/f3/b6/9ef3b6489649dfe3f5b967044aa35c80.jpg")
+        .setAssetsLargeImage("mp:icons/9e/f3/b6/9ef3b6489649dfe3f5b967044aa35c80.webp")
         .setAssetsLargeText("Miawww")
-        .setAssetsSmallImage("https://imageio.forbes.com/specials-images/imageserve/64421a10faabcf3a4aeb4797/Vector-Blue-Verified-Badge/960x0.jpg?format=jpg&width=960")
+        .setAssetsSmallImage("mp:avatars//64421a10faabcf3a4aeb4797.png")
         .setAssetsSmallText("Astute-tra")
         .addButton('server1', "https://discord.gg/CKBVFUK6")
         .addButton('server2', "https://discord.gg/xJ4NuaAt")
